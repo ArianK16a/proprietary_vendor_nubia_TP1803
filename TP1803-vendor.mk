@@ -225,6 +225,7 @@ PRODUCT_PACKAGES += \
     libadsprpc \
     libc2d30_bltlib \
     libcdsp_default_listener \
+    libcdsprpc \
     libdiag \
     libdsutils \
     libgsl \
@@ -244,6 +245,7 @@ PRODUCT_PACKAGES += \
     libvpphcp \
     libvpphvx \
     libvpplibrary \
+    vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.vpp@1.1 \
     vendor.qti.hardware.vpp@1.2 \
     vendor.qti.hardware.vpp@1.3 \
@@ -358,7 +360,6 @@ PRODUCT_PACKAGES += \
     libcamxtintlessalgo \
     libcdfw \
     libcdfw_remote_api \
-    libcdsprpc \
     libcne \
     libcneapiclient \
     libcneoplookup \
@@ -475,7 +476,6 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.data.iwlan@1.0 \
     vendor.qti.hardware.data.latency@1.0 \
     vendor.qti.hardware.data.qmi@1.0 \
-    vendor.qti.hardware.dsp@1.0 \
     vendor.qti.hardware.fm@1.0 \
     vendor.qti.hardware.qccsyshal@1.0 \
     vendor.qti.hardware.radio.am@1.0 \
